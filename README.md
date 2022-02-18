@@ -27,7 +27,7 @@ My research interests lie in the intersection of politics and information.
 [![website](./img/instagram-light.svg)](https://www.instagram.com/kinyapop/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/kinyapop/#gh-dark-mode-only)
 
-### Languages and Tools that I do NOT use:
+### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
