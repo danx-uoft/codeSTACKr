@@ -1,6 +1,7 @@
-# Hi there, I'm Dan 👋 Born and raised in :cn:
+# Hi there, I'm Dan 👋 :cn:
 
 ## I'm a graduate student at the University of Toronto. 
+- Born and raised in Born 🇨🇳
 My research interests lie in the intersection of politics and information. 
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
