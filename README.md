@@ -1,4 +1,4 @@
-# Hi there, I'm Dan 👋 :cn:
+# Hi there, I'm Dan 👋 Born and raised in :cn:
 
 ## I'm a graduate student at the University of Toronto. 
 My research interests lie in the intersection of politics and information. 
