@@ -30,10 +30,11 @@ My research interests lie in the intersection of politics and information.
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/kinyapop/#gh-dark-mode-only)
 
 ### Languages and Tools:
+<!-- BLOG-POST-LIST:START -->
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />][webdevplaylist]
+<!-- BLOG-POST-LIST:END -->
 
----
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
