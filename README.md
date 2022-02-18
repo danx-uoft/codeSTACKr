@@ -24,8 +24,8 @@ My research interests lie in the intersection of politics and information.
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/d-x-114350189/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/d-x-114350189/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/kinyapop/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/kinyapop/#gh-dark-mode-only)
 
 ### Languages and Tools that I do NOT use:
 
