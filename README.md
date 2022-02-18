@@ -1,8 +1,6 @@
-# Hi there, I'm Dan 👋 🇨🇳 🇨🇦 🌐
+# Hi there, I'm Dan 🇨🇳 🇨🇦
 
 ## I'm a graduate student at the University of Toronto. 
-- Born and raised in Born 🇨🇳
-- Currently live in 🇨🇦
 
 ---
 ## Research interests 
