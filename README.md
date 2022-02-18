@@ -1,7 +1,7 @@
 # Hi there, I'm Dan 🇨🇳 🇨🇦
 
 ## About me 
-- I'm a graduate student at the University of Toronto.  
+- 🏫 I'm a graduate student at the University of Toronto.  
 
 ## Research interests 
 My research interests lie in the intersection of politics and information. 
