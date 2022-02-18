@@ -2,6 +2,9 @@
 
 ## I'm a graduate student at the University of Toronto. 
 - Born and raised in Born 🇨🇳
+
+
+## Research interests 
 My research interests lie in the intersection of politics and information. 
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
