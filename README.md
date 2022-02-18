@@ -6,16 +6,6 @@
 - 🇺🇸 I used to live in the United States
 - 🏫 I'm a graduate student at the University of Toronto
 
-## Research interests 
-My research interests lie in the intersection of politics and information. 
-
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning swimming 🤣
-- 👯 I’m looking to collaborate with other researchers
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
-
 ### Connect with me:
 
 <!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only) -->
@@ -32,6 +22,16 @@ My research interests lie in the intersection of politics and information.
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/kinyapop/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/kinyapop/#gh-dark-mode-only)
+
+## Research interests 
+My research interests lie in the intersection of politics and information. 
+
+- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning swimming 🤣
+- 👯 I’m looking to collaborate with other researchers
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I love to draw and play guitar / drums
+- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### Languages and Tools:
 <!-- BLOG-POST-LIST:START -->
