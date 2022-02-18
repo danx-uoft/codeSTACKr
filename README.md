@@ -1,7 +1,7 @@
 # Hi there, I'm Dan 🇨🇳 🇨🇦
 
 ## About me 
-- 🇨🇳 I was born and raised in China
+- 🇨🇳 I was born and raised in Guangdong, China
 - 🇨🇦 I currently live in Toronto, Canada
 - 🏫 I'm a graduate student at the University of Toronto
 
