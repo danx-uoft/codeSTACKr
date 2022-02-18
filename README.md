@@ -32,7 +32,6 @@ My research interests lie in the intersection of politics and information.
 ### Languages and Tools:
 <[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />][webdevplaylist]>
 <[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />][webdevplaylist]>
-<[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" ]>
 
 ### 📕 Latest Blog Posts
 
