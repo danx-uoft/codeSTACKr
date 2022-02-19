@@ -6,22 +6,13 @@
 - 🇺🇸 I used to live in the United States
 - 🏫 I'm a graduate student at the University of Toronto
 
+# Hobbies 
+
+
 ### Connect with me:
 
-<!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only) -->
-<!-- [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)-->
-<!-- &nbsp;&nbsp; -->
-<!-- [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)-->
-<!-- [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)-->
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/kinyapop1#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/kinyapop1#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/d-x-114350189/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/d-x-114350189/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/kinyapop/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/kinyapop/#gh-dark-mode-only)
+<a href="https://twitter.com/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="donpablonow" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donpablonow" height="30" width="40" /></a>
 
 ## Research interests 
 My research interests lie in the intersection of politics and information. 
