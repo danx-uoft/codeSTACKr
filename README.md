@@ -14,7 +14,7 @@
 <a href="https://www.facebook.com/zdanxu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/kinyapop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="donpablonow" height="30" width="40" /></a>
 ---
-### Research interests 
+<h1 align="center">Research Interests</h1> 
 My research interests lie in the intersection of politics and information. 
 
 
@@ -25,8 +25,6 @@ My research interests lie in the intersection of politics and information.
 - 🌨️ Dark secret: I only use disposable utensils
 
 ---
-
-### Languages and Tools:
 
 <h1 align="center">Languages and Tools</h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/></a> 
