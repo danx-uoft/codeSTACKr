@@ -6,9 +6,6 @@
 - 🇺🇸 I used to live in the United States
 - 🏫 I'm a graduate student at the University of Toronto
 
-# Hobbies 
-I am learning 🏊 ⛷️ ⛸️ 🛼 
-
 ### Connect with me:
 
 <a href="https://twitter.com/kinyapop1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="donpablonow" height="30" width="40" /></a>
@@ -21,7 +18,7 @@ I am learning 🏊 ⛷️ ⛸️ 🛼
 My research interests lie in the intersection of politics and information. 
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning swimming 🤣
+- 🌱 I’m currently learning 🏊 ⛷️ ⛸️ 🛼 
 - 👯 I’m looking to collaborate with other researchers
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
