@@ -7,6 +7,8 @@
 - 🇺🇸 I used to live in the United States
 - 🏫 I'm a graduate student at the University of Toronto
 
+---
+
 <h1 align="center">My Life</h1> 
 
 - 🌱 I’m currently learning 🏊 ⛷️ ⛸️ 🛼 
@@ -14,6 +16,13 @@
 - 🥅 2022 Goals: Learn more, write more, smile more
 - ⚡ Fun fact: I gain facical fat easily
 - 🌨️ Dark secret: I only use disposable utensils
+
+---
+
+<h1 align="center">Research Interests</h1> 
+My research interests lie in the intersection of politics and information. 
+
+
 ---
 <h1 align="center">Connect with Me</h1> 
 
@@ -24,10 +33,7 @@
  
  
 ---
-<h1 align="center">Research Interests</h1> 
-My research interests lie in the intersection of politics and information. 
 
----
 <h1 align="center">TECHNOLOGY</h1>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="height: 4rem"/>
