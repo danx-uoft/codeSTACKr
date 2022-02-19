@@ -5,7 +5,6 @@
 - 🇨🇳 I was born and raised in China
 - 🇨🇦 I currently live in Canada
 - 🇺🇸 I used to live in the United States
-- 
 ---
 
 <h1 align="left">My Life</h1> 
