@@ -12,7 +12,7 @@
 
 - 🏫 I'm a graduate student at the University of Toronto
 - 🌱 I’m currently learning 🏊 ⛷️ ⛸️ 🛼 
-- 🏙️ I enjoy travelling 
+- 🏙️ Hobbies: Pokémon GO, Travelling, Food 
 - 👯 I’m looking to collaborate with other researchers
 - 🥅 2022 Goals: Learn more, write more, smile more
 - ⚡ Fun fact: I gain facical fat easily
