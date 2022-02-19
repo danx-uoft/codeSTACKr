@@ -29,8 +29,9 @@ My research interests lie in the intersection of politics and information.
 ---
 
 <h1 align="left">Languages and Tools</h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/></a> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"  style="height: 4rem"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"  style="height: 4rem"/>
 </p>
 
 ---
