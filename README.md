@@ -5,6 +5,14 @@
 - 🇨🇦 I currently live in Canada
 - 🇺🇸 I used to live in the United States
 - 🏫 I'm a graduate student at the University of Toronto
+
+<h1 align="left">My Life</h1> 
+
+- 🌱 I’m currently learning 🏊 ⛷️ ⛸️ 🛼 
+- 👯 I’m looking to collaborate with other researchers
+- 🥅 2022 Goals: Learn more, write more, smile more
+- ⚡ Fun fact: I gain facical fat easily
+- 🌨️ Dark secret: I only use disposable utensils
 ---
 <h1 align="left">Connect with Me</h1> 
 
@@ -16,14 +24,6 @@
 ---
 <h1 align="left">Research Interests</h1> 
 My research interests lie in the intersection of politics and information. 
-
-<h1 align="left">My Life</h1> 
-
-- 🌱 I’m currently learning 🏊 ⛷️ ⛸️ 🛼 
-- 👯 I’m looking to collaborate with other researchers
-- 🥅 2022 Goals: Learn more, write more, smile more
-- ⚡ Fun fact: I gain facical fat easily
-- 🌨️ Dark secret: I only use disposable utensils
 
 ---
 
