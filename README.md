@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/d-x-114350189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kinyapop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://www.facebook.com/zdanxu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="donpablonow" height="30" width="40" /></a>
+<a href="https://twitter.com/kinyapop1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="donpablonow" height="30" width="40" /></a>
 
 ## Research interests 
 My research interests lie in the intersection of politics and information. 
