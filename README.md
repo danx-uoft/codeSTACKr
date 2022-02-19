@@ -1,4 +1,4 @@
-# Hi there, I'm Dan 💂
+# Hi there, I'm Dan 🕶️
 
 ## About me 
 - 🇨🇳 I was born and raised in China
