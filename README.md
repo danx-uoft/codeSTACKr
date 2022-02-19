@@ -1,29 +1,5 @@
 # Hi there, I'm Dan 🕶️
 
-## Who am I?
-
- ```python
-  class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return Chhattisgarh_India()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
-	
- ```
-
 ## About me 
 - 🇨🇳 I was born and raised in China
 - 🇨🇦 I currently live in Canada
