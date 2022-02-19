@@ -24,8 +24,9 @@ My research interests lie in the intersection of politics and information.
 - ⚡ Fun fact: I gain facical fat easily
 - 🌨️ Dark secret: I only use disposable utensils
 
-### Languages and Tools:
+---
 
+### Languages and Tools:
 
 <h1 align="center">TECHNOLOGY</h1>
 
