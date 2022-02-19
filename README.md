@@ -1,4 +1,4 @@
-# Hi there, I'm Dan 🕶️
+<h1 align="center">Hi there, I'm Dan 🕶️</h1> 
 
 <h1 align="center">About Me </h1>
 
