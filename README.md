@@ -17,12 +17,11 @@
 ## Research interests 
 My research interests lie in the intersection of politics and information. 
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning 🏊 ⛷️ ⛸️ 🛼 
 - 👯 I’m looking to collaborate with other researchers
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🥅 2022 Goals: Learn more, write more, smile more
+- ⚡ Fun fact: I gain facical fat easily
+- 🌨️ Dark secret: I only use disposable utensils
 
 ### Languages and Tools:
 <!-- BLOG-POST-LIST:START -->
