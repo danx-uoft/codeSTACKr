@@ -1,6 +1,6 @@
 # Hi there, I'm Dan 🕶️
 
-## About me 
+<h1 align="left">About Me </h1>
 - 🇨🇳 I was born and raised in China
 - 🇨🇦 I currently live in Canada
 - 🇺🇸 I used to live in the United States
