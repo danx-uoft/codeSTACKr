@@ -7,7 +7,7 @@
 - 🏫 I'm a graduate student at the University of Toronto
 
 # Hobbies 
-I play Pokémon GO :pokeball: I am a pround :instinct: 
+I am learning 🏊 ⛷️ ⛸️ 🛼 
 
 ### Connect with me:
 
