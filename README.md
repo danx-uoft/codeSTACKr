@@ -18,6 +18,7 @@
 My research interests lie in the intersection of politics and information. 
 
 <h1 align="left">My Life</h1> 
+
 - 🌱 I’m currently learning 🏊 ⛷️ ⛸️ 🛼 
 - 👯 I’m looking to collaborate with other researchers
 - 🥅 2022 Goals: Learn more, write more, smile more
