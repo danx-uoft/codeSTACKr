@@ -9,7 +9,6 @@
 
 <h1 align="left">My Life</h1> 
 
-- 🏫 I'm a graduate student at the University of Toronto
 - 🌱 I’m currently learning 🏊 ⛷️ ⛸️ 🛼 
 - 🏙️ Hobbies: Pokémon GO, Travelling, Food 
 - 🥅 2022 Goals: Learn more, write more, smile more
