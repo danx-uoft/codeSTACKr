@@ -3,9 +3,10 @@
 <h1 align="left">Timeline About Me </h1>
 
 - 🇨🇳 Born, raised, schooled  in China
-- 🇺🇸 Moved to the United States for school 
+- 🇺🇸 Moved to United States for school 
 - :canada: Moved to Canada for school 
-- 🇺🇸 Moved back to United States
+- 🇺🇸 Moved back to United States to visit friends 
+- :earth_asia: Looking for jobs anywhere in the world 
 ---
 
 <h1 align="left">My Life</h1> 
