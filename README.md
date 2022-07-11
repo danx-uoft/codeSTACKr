@@ -1,10 +1,11 @@
 <h1 align="left">Hi there, I'm Dan 🕶️</h1> 
 
-<h1 align="left">About Me </h1>
+<h1 align="left">Timeline About Me </h1>
 
-- 🇨🇳 I was born and raised in China
-- 🇨🇦 I currently live in Canada
-- 🇺🇸 I used to live in the United States
+- 🇨🇳 Born, raised, schooled  in China
+- 🇺🇸 Moved to the United States for school 
+- :canada: Moved to Canada for school 
+- 🇺🇸 Moved back to United States
 ---
 
 <h1 align="left">My Life</h1> 
